@@ -12,7 +12,7 @@
 ####   * User:  
              user: user@email.com
              password: user
-             
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginUser.JPG" height="350" />                          
 ## Operaciones Admin:
 Agregar un libro
 
