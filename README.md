@@ -1,9 +1,9 @@
 Information
 
-Operaciones en Front End:
+# Operaciones en Front End:
 
-Logueo: 
-###  Existen 2 usuarios configurados: 
+## Logueo: 
+####  Existen 2 usuarios configurados: 
 ####   * Administrador:
              user: admin@email.com
              password: admin
