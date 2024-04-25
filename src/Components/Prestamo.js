@@ -87,7 +87,7 @@ const Prestamo = (props) =>{
       <>
             <Modal show={showPrestamo} onHide={handleClosePrestamo}>
             <Modal.Header closeButton>
-              <Modal.Title>New Book</Modal.Title>
+              <Modal.Title>Prestamo Book</Modal.Title>
             </Modal.Header>
             
             <Modal.Body>
