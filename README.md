@@ -7,12 +7,12 @@
 ####   * Admin:
              user: admin@email.com
              password: admin
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="200" />             
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="300" />             
              
 ####   * User:  
              user: user@email.com
              password: user
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginUser.JPG" height="250" />                          
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginUser.JPG" height="350" />                          
 ## Operaciones Admin:
 Agregar un libro
 
