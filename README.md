@@ -46,7 +46,7 @@ Recuperar todos los libros:
 ## Operaciones de User:
 Ver Historial de libros Prestados: 
 <br /><br />
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Listado.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Historial.JPG" height="300" />
 
 <br /><br /><br /><br />
 ## Validaciones
