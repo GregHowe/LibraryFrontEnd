@@ -43,7 +43,7 @@ Devolver un libro:
 -------------------------------------------------------------
 Recuperar todos los libros: 
 <br /><br />
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Listado.JPG" height="300" />
 
 
 ## Operaciones User:
