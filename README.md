@@ -9,17 +9,17 @@
              user: user@email.com
              password: user
              
-# Operaciones Admin:
-## Agregar un libro
+## Operaciones Admin:
+### Agregar un libro
 
-## Eliminar un libro
+### Eliminar un libro
 
-## Prestar un libro
+### Prestar un libro
 
-## Devolver un libro
+### Devolver un libro
 
-## Recuperar todos los libros
+### Recuperar todos los libros
 
-# Operaciones User:
-## Ver Historial de libros Prestados
+## Operaciones User:
+### Ver Historial de libros Prestados
 
