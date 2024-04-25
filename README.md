@@ -25,7 +25,8 @@ Agregar un libro:
 -------------------------------------------------------------
 Eliminar un libro: 
 <br /><br />
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Delete1.JPG" height="300" /><br /><br />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Delete2.JPG" height="300" />
 
 -------------------------------------------------------------
 Prestar un libro: 
