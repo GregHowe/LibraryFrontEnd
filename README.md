@@ -16,7 +16,7 @@
              password: user
 
 
-## Operaciones Admin:
+## Operaciones de Admin:
 Agregar un libro: 
 <br /><br />
 <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" /><br /><br />
@@ -46,10 +46,11 @@ Recuperar todos los libros:
 <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Listado.JPG" height="300" />
 
 
-## Operaciones User:
+<br /><br /><br /><br />
+## Operaciones de User:
 Ver Historial de libros Prestados: 
 <br /><br />
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Listado.JPG" height="300" />
 
 ## Validaciones
 No se puede registrar libros con nombres de libros ya registrados.
