@@ -3,11 +3,11 @@ Information
 Operaciones en Front End:
 
 Logueo: 
-#  Existen 2 usuarios configurados: 
+###  Existen 2 usuarios configurados: 
       * Administrador:
              user: admin@email.com
              password: admin
-#     * Usuario:  
+###     * Usuario:  
              user: user@email.com
              password: user
 # header H1
