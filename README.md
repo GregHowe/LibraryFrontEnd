@@ -1,11 +1,13 @@
 # Operaciones en Front End:
 
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="100" />
+
 ## Logueo: 
 ####  Existen 2 usuarios configurados: 
 ####   * Admin:
              user: admin@email.com
              password: admin
-             <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="100" />
+             
              
 ####   * User:  
              user: user@email.com
