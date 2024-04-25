@@ -31,12 +31,14 @@ Eliminar un libro:
 -------------------------------------------------------------
 Prestar un libro: 
 <br /><br />
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Prestamo1.JPG" height="300" /><br /><br />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/Prestamo2.JPG" height="300" />
 
 -------------------------------------------------------------
 Devolver un libro:
 <br /><br />
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/devolver1.png" height="300" /><br /><br />
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/devolver2.png" height="300" />
 
 -------------------------------------------------------------
 Recuperar todos los libros: 
