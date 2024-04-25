@@ -37,7 +37,7 @@ No se puede volver a prestar el mismo libro a un usuario hasta que este sea devu
 
 Cuando se realiza prestamo del libro, este disminuye el stock.
 
-### Cuando se realiza devolucion del libro, este aumenta el stock.
+Cuando se realiza devolucion del libro, este aumenta el stock.
 
 
 
