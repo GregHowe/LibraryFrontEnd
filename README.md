@@ -4,10 +4,9 @@
 
 ## Logueo: 
 ####  Existen 2 usuarios configurados: 
-####   * Admin:
+####   * Admin: admin@email.com   password: admin
 <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="150" />            
-###### user: admin@email.com
-###### password: admin
+
 
              
 ####   * User:  
