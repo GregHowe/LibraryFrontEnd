@@ -100,7 +100,7 @@ return  (
     <>
             <Modal show={showReturn} onHide={handleCloseReturn}>
           <Modal.Header closeButton>
-            <Modal.Title>Return Book</Modal.Title>
+            <Modal.Title>Devolver Libro</Modal.Title>
           </Modal.Header>
           
           <Modal.Body>
@@ -135,7 +135,7 @@ return  (
           
           <Modal.Footer>
             <Button variant="secondary" onClick={handleCloseReturn}> Close</Button>
-            <Button variant="primary" onClick={submitHandler} >Return Book</Button    >
+            <Button variant="primary" onClick={submitHandler} >Devolver Libro</Button    >
           </Modal.Footer>
 
       </Modal>
