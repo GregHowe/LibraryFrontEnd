@@ -58,6 +58,19 @@ const Login = ({ setUserState }) => {
       }, [formErrors]);
 
     return (
+      <div>
+        <div  className={loginstyle.login}>
+            <b>Admin: </b>
+            <div>
+                <b>user</b>: admin@email.com <b>password</b>  : admin
+           </div>
+            <br></br><br></br>
+              <b>User: </b>
+            <div>
+              <b>user</b>: user@email.com <b>password</b>: user
+             </div>
+            <br></br>
+          </div>
         <div className={loginstyle.login}>
           <form>
             <h1>Login</h1>
@@ -70,6 +83,7 @@ const Login = ({ setUserState }) => {
             <p className={basestyle.error}>{msgLogin}</p>
             <button className={basestyle.button_common} onClick={loginHandler}> Login </button>
           </form>
+        </div>
         </div>
       );
 
