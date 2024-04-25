@@ -17,7 +17,7 @@
 
 
 ## Operaciones Admin:
-Agregar un libro: <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />                          
+Agregar un libro: <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />                            
 <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibroOk.JPG" height="300" />
 
 Eliminar un libro: <img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />
