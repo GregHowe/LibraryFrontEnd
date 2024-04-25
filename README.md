@@ -5,18 +5,20 @@
 ## Logueo: 
 ####  Existen 2 usuarios configurados: 
 ####   * Admin:
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="150" />             
              user: admin@email.com
              password: admin
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginAdmin.JPG" height="150" />             
+
              
 ####   * User:  
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginUser.JPG" height="150" />                          
              user: user@email.com
              password: user
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/loginUser.JPG" height="150" />                          
+
 
 ## Operaciones Admin:
 Agregar un libro
-<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="150" />                          
+<img align="center" src="https://github.com/GregHowe/LibraryFrontEnd/blob/main/images/AddLibro.JPG" height="300" />                          
 
 
 Eliminar un libro
