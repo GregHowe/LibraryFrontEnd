@@ -1,7 +1,7 @@
 # Operaciones en Front End:
 
 ### Video Resumen:
-  [![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-hero-image.png.webp))](https://youtu.be/cyxVnyldStY)
+  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png](https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-hero-image.png.webp)(https://youtu.be/cyxVnyldStY)
   
 ## Logueo: 
 ####  Existen 2 usuarios configurados: 
