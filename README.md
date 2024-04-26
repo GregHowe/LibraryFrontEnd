@@ -1,6 +1,7 @@
 # Operaciones en Front End:
 
 ### Video Resumen:
+Ver
 [![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgHAHff9apu1ZuaDfziL_os6AvslE1rtEkvzCW_ipJ2kuUtgObKo55zbBy7O8I34xKf8&usqp=CAU)](https://youtu.be/cyxVnyldStY)
 
 ## Logueo: 
