@@ -41,8 +41,8 @@ const Add = (props) =>{
 
        const _token = localStorage.getItem("accessToken");
        const headers = {'Authorization': `Bearer ${_token}`}
- 
-        axios.post(`${api}/Books`, { "name": name, "stock": stock}, { headers})
+      
+        axios.post(`${api}/Books`, { "name": name.trim(), "stock": stock}, { headers})
         .then(_ => {
  
             setName('');
