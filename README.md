@@ -2,7 +2,7 @@
 
 ### Ver Video Resumen:
 
-[![Watch the video](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596dda8d77553.png)](https://youtu.be/cyxVnyldStY)
+[![Watch the video]([https://images.drivereasy.com/wp-content/uploads/2017/07/img_596dda8d77553.png](https://www.shutterstock.com/image-vector/player-background-red-play-vector-260nw-374348860.jpg))](https://youtu.be/cyxVnyldStY)
 
 ## Logueo: 
 ####  Existen 2 usuarios configurados: 
